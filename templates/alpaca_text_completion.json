@@ -1,0 +1,6 @@
+{
+    "description": "Template to train model as text completion",
+    "prompt_input": "{instruction}",
+    "prompt_no_input": "{instruction}",
+    "response_split": ""    
+}
