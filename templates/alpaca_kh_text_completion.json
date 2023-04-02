@@ -1,0 +1,6 @@
+{
+    "description": "Template to train model as khmer text completion",
+    "prompt_input": "Below is an prompt given in Khmer language. Complete the sentence appropriately in Khmer language.\n\n### Content:\n{instruction}",
+    "prompt_no_input": "Below is an prompt given in Khmer language. Complete the sentence appropriately in Khmer language.\n\n### Content:\n{instruction}",
+    "response_split": "### Content:\n"    
+}
